@@ -1,1 +1,3 @@
 * JEmacs
+
+John's literate Emacs 32 configuration.
