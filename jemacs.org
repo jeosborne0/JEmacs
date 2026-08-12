@@ -32,7 +32,7 @@ The generated configuration is deliberately layered:
 Each module should have one responsibility. If a package is only useful for
 one domain, configure it in that domain's module rather than in =core=.
 
-* Bootstrap
+* Setup
 ** Early initialization
 #+begin_src emacs-lisp :tangle early-init.el
   ;;; early-init.el --- Early initialisation -*- lexical-binding: t; -*-
